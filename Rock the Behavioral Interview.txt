@@ -1,0 +1,781 @@
+---
+title: Rock the Behavioral Interview
+author: Leap.ai
+language: en-US
+---
+
+# Introduction
+
+It is critical for an employer to assess how well one fits into the company in the interview process since employees who are a strong cultural fit have higher job satisfaction, superior job performance, and are more likely to stay with the company.
+
+Behavioral Interviews are a proven way to assess a person’s motivations, characteristics and cultural fit in an organization. They reveal a person’s ability to adapt, communicate and grow. Unlike technical questions, there is no right or wrong answers. The candidates are often asked how they handled different situations.
+
+# General Guideline for Behavioral Interview
+
+In this chapter, we will first introduce three general guidelines for behavioral interviews. We also identified eight categories of common behavioral questions and go deep into each one of them in the next eight chapters.
+
+![](https://s3-us-west-1.amazonaws.com/s3-lc-upload/explore/cards/leap-ai/chapter1overview.png)
+
+For each topic, we will show a few most common questions, analyze what the interviews are really looking for, share best practices and common pitfalls. In some cases, we will also list some question variations.
+
+## Use the STAR framework
+
+The STAR method is a gold standard in answering behavioral-based interview question by discussing the specific situation, task, action, and result of the situation you are describing.
+
+![](https://s3-us-west-1.amazonaws.com/s3-lc-upload/explore/cards/leap-ai/star.png)
+
+- **Situation**: Describe the situation that you were in when you needed to accomplish. It can be from your current job, previous job or from any relevant experience such as volunteer work or college clubs.
+
+- **Task**: What goal were you working toward? Describe the challenge and what needs to be done to get a positive output?
+
+- **Action**: Elaborate the measures you took to address the situation with an appropriate amount of detail. Describe the precise steps you took and the contribution. Talk about yourself rather than the team.
+
+- **Result**: Describe the outcome of your actions in a quantifiable way. Communicate multiple positive results. If the answers have a negative outcome, they should highlight your resilience or adaptability.
+
+## Prepare. Prepare. Prepare.
+
+The most common mistake in an interview is that people come unprepared. Sometimes, a candidate does not even have a reasonable understanding of what the company does, or is unable to explain what she has done in the past concisely. This can be addressed by spending some time to prepare.
+
+![](https://s3-us-west-1.amazonaws.com/s3-lc-upload/explore/cards/leap-ai/research.png)
+
+- **Research the company and your interviewers.** It will show that you have done your homework thoroughly. Only after considerable research, you can ask questions with great insights and have a meaningful conversation with the interviewers.
+
+- **Get a list of 10 interesting questions.** Asking the right questions is not only a great way to get the right information for you to assess the company and the opportunity, but also a great way to demonstrate your insights and unique perspective.
+
+- **Practice. Practice. Practice.** You are almost certain to encounter certain questions, for example, a quick overview of your recent project, your top strengths, your development areas, why you apply to this role. You should have very crisp answers to these questions.
+
+## Communicate
+
+No matter if you are in engineering, sales, or marketing, communication plays a critical role for you to be effective at work. Thus, the interviewers will try their best to get a read on your articulation and communication style.
+
+![](https://s3-us-west-1.amazonaws.com/s3-lc-upload/explore/cards/leap-ai/Communicate.png)
+
+- **Explain your solution.** The interviewers definitely care whether they have the right answer to the technical questions, but they care even more about your thinking process. Please make sure to explain the thought process why you are approaching the problems in this way.
+
+- **Be Succinct.** Be direct with your answers, especially for your past experience. People care less about all the glory background. Please just share enough so that the interviewer can truly understand what you try to convey. Of course, overly terse is bad too since the interview may not have enough context to appreciate the complexity and significance of your past successes.
+
+- **Listening.** Demonstrate active listening skills, ask clarification questions if needed. Do not rush to answer a question if the interviewer is still trying to explain. By listening, you can get a better sense of what your interviewers are interested in so that you can tailor your response including selecting the right examples to resonate better with the interviewer. Of course, the last thing you want to do is to argue with an interviewer.
+
+# Self-awareness
+
+Self-awareness is a key indicator of one’s maturity. It is our ability to monitor inner state, thoughts, preferences and emotions as we evolve. It is a lifelong exercise for each of us, including those who are super successful. With this, self-awareness questions are extremely common in interviews.
+
+![](https://s3-us-west-1.amazonaws.com/s3-lc-upload/explore/cards/leap-ai/self_awareness.png)
+
+Thus, we choose to cover it first. In this category of questions, the interviewers are trying to learn more about your strengths and weaknesses, working style and assess how well you will fit into the team.
+
+## Biggest Strength and Weakness
+
+**What is the interviewer looking for:** The interviewer is looking for your self-awareness, your knowledge of your strengths and areas of development. She will try to assess whether you will be a good fit for the role.
+
+**Best practice to answer:** First of all, this is a great opportunity to tell your story. For strengths, you can share the traits that led you to your greatest successes. For the developing areas, demonstrate yourself as a lifetime learner.
+
+- With your biggest strength question, it is your opportunity to leave a lasting impression with the interviewer. The best way to approach this is through concrete stories. For example, if your top strength is taking initiatives, you should tell a compelling story where you have gone above and beyond using STAR framework. Please make sure your strength stands out in this story. Even if you think you are slightly better with strength A than strength B, but if you have a more compelling story with B, you should go with B. People do not remember what you say, they remember your stories.
+
+- Ensure that your strengths are directly related to the role and set you apart from others. The weaknesses should be relayed in such a way that they do not have a fatal impact on your role. It’s important to show that you have taken steps to improve.
+
+- Sometimes, the interviewers only ask about weakness. Do not answer the question directly if you can. Share that you think strength and weakness are a great combo and ask the interviewer if you can talk about both. In most cases, the interviewer will happily agree and you will take the question to the course that is favorable to you. Of course, if the time is tight, answer the question directly, but again, emphasizing on your actions to improve.
+
+- Even if you are not asked to share your strengths, try to find opportunities to share your stories of successes and make connection between the successes and your strengths.
+
+**Common pitfalls:**
+
+- Too shy to talk about what you are really good at. Do not be shy. The interviewers will not know your strengths if you do not tell them a compelling story. Before your interviews, get your strength story ready, sharp and concise.
+
+- Do not pick up strengths that are entirely unrelated to the job. The interviewers are here to gather information to make hiring recommendations, not for pure entertainment. So pick up strengths that are important in a professional setting, such as your ability to learn, collaborate, execute, innovate, lead, etc.
+
+- Ingenuine or clichéd weaknesses. A common example is that I work too hard. All interviewers know it is made up. Let us face it. We all have a few true weaknesses. Do not think your answer to this question is doomed to impact you negatively. Please have the coverage to make lemonade from a lemon. Turn this question into what you have learned about yourself and how you enriched your skills after you discovered the weakness. That will impress the interviewers a lot more, trust me.
+
+**Question variations:**
+
+- What do you wish to be better at?
+- What are you most proud of?
+
+## Co-workers' View of You
+
+**What is the interviewer looking for:** The interviewer is looking for your self-awareness, knowledge of your strengths, areas of development, with a particular focus on others’ perception of you.
+
+**Best practice to answer:** This is a moment to sing your glory using someone else’s voice. A good practice is to quote official performance reviews from your co-workers and seniors. Please make sure to use concrete examples about your contributions to the team, the impact, and the team appreciation. You can tailor your answer to what is critical for the job you are applying to increase your chance of success.
+
+![](https://s3-us-west-1.amazonaws.com/s3-lc-upload/explore/cards/leap-ai/chess.png)
+
+**Common pitfalls:**
+
+- Try to cover a lot of great things without specific details. Please pick up top three things that are somehow related to the job you are applying. Focus on them by giving specific and concise examples.
+
+- Focus too much on yourself. The interviewers who ask this question care more about how well you work with others. Please talk and exhibit your collaboration skills, and how you put the team’s interest ahead of your interest.
+
+**Question variations:**
+
+- When I call your coworkers for reference checking, what will they say about you?
+- What will your team miss if you leave tomorrow?
+
+## Who is your role model?
+
+**What is the interviewer looking for:** The interviewer is looking at your thought process about your holistic development, which is often correlated to the kind of leader you want to be. It implies the leadership dimension you value and appreciate. The interviewer will then assess whether this is a good fit for the team.
+
+**Best practice to answer:** If you have a clear role model, that is great. Please give three reasons about why this person is your role model. It is also perfectly fine to have an abstract role model. Please list three dimensions of the abstract figure. This shows the kind of personality and traits that you want to embody and inspire to be.
+
+**Common pitfalls:**
+
+- Not substantiating your role model with the traits you want to embody.
+
+**Question variations:**
+
+- Who is your favorite athlete?
+- Who is your favorite CEO?
+- Who is your dream manager or teammate?
+
+# Motivation and Values
+
+We, human beings, are driven by what we value. It leads us to be more passionate about some jobs than others. As an individual, you want to find the jobs that you are passionate about. At the same time, the employers will also prioritize finding someone who is truly passionate about the job. One effective way to assess whether the job function matches with your passion is to have a deeper understanding of your motivation and values. Interviewers, especially the managers, use this question to assess if the tasks done at the job intrinsically motivate you. They are looking for signs to determine your cultural fit in the team and company, and the likelihood to stay in the company.
+
+![](https://s3-us-west-1.amazonaws.com/s3-lc-upload/explore/cards/leap-ai/motivationAndValue.jpg)
+
+The table above shows 7 common work values that Leap.ai has summarized. When deciding which companies are right for you, you should definitely be honest with yourself. However, in an interview, the interviewers will probably appreciate answers related to impact, learning, career growth, and then work-life balance, stability, or compensation.
+
+## Why are you interested in this role?
+
+**What is the interviewer looking for:** The interviewer is trying to understand what drives you, how your values align with the company’s, what are the chances to accept the offer if offered, and what is the chance you will do well in this company.
+
+**Best practice to answer:** Choose an answer where your goals align with the position and also show the value-add to the company. It should be tailored according to the specific job position. Show how your actions and your plans are in harmony. Your knowledge, enthusiasm, and efforts will go a long way in answering this question. A good way to answer this question is to illustrate how well this job aligns with your career goals.
+
+**Common pitfalls:**
+
+- Having a generic answer for all interviews. You need to go deeper, show what you have learned about the company, why you like it and why you will be a good fit.
+
+- Emphasize too much on work-life balance and risk. There is nothing wrong about joining a more stable company due to personal and family needs, but it should be a secondary reason, not the primary reasons, at least in the interview :) In your answer, you should focus on your primary reasons: impact, learning, career growth.
+
+**Question variations:**
+
+- Why do you want to work here?
+- How is this role in alignment with your career goals?
+- What do you want to get in your next job?
+
+## What drags you out of bed?
+
+**What is the interviewer looking for:** The interviewer is looking for the motivational factors that keep you going. The interviewer will try to aggregate your answers, your strengths, and your background to form an overall view of you and assess how well you will fit in the team’s needs.
+
+**Best practice to answer:** Talk about what you care most deeply, why it matters to you, and how you have committed 100% of your energy to do things you care, no matter if it is technology advancement, business success, amazing user experience, or learning new things to expedite your growth.
+
+It is ok to joke it is the kids and the alarm that get you up, but please do not stop there :) The interviewers want to know more about what drives you.
+
+![](https://s3-us-west-1.amazonaws.com/s3-lc-upload/explore/cards/leap-ai/morning-coffee.jpg)
+
+**Common pitfalls:**
+
+- The answer is completely unrelated to the job. Yes, you have your passion, but how will it contribute to your success on the job? Will it become a distraction from your work performance?
+
+- Answer targeted entirely towards job description. It is a good idea to connect your answer to the job, but if it is overdone, the interviewer will know you are not being genuine and trying too hard to get the job.
+
+- Broad and generic answers that do not seem to be very sincere and genuine. If you are unable to communicate passionately, the interviewer will think either you are not able to communicate well or you are not giving a genuine response.
+
+**Question variations:**
+
+- What keeps you going?
+- If you have achieved financial freedom today, what will you be doing?
+- What is your dream job?
+
+## Do you have any questions for me?
+
+**What is the interviewer looking for:** On one side, the interviewer is giving you an opportunity to ask questions so that you have a better understanding of the company. On the other hand, the interviewer is also going to form her opinion about how excited you are with the company, based on the questions you have asked.
+
+![](https://s3-us-west-1.amazonaws.com/s3-lc-upload/explore/cards/leap-ai/do-u-have-any-question-for-me.png)
+
+**Best practice to answer:** You should think about two things here. One is to ask questions that you still have about the company and the role. Just as the company is interviewing you, you are interviewing it as well. The other is to ask questions that demonstrate your passion, knowledge and thought leadership in this space.
+
+If you do not have questions or your questions are very superficial, it will be a clear indicator that you are not highly interested in the role, or you are not a curious person. Both cases are bad signs to an interviewer.
+
+Below are some sample questions that can help you get started:
+
+- I read the news that xxx is also starting a similar service. What is your take on their move?
+- What big trends do you see in xxx space in the next 3 years?
+- What 3-5 words will you use to describe the team’s culture?
+- What are the biggest challenges that someone in this role will face?
+- What does your day look like?
+- How satisfied is the team with their career development?
+
+**Common pitfalls:**
+
+- No questions: this shows that you have not researched the company and the role properly, or you are not interested.
+
+- Asking very generic questions that can be answered using Google search. This is a very precious moment for you to get meaningful information about the role. Please do not waste it.
+
+- Ask too detail questions, such as benefits. This is not the time. You have plenty of time to ask about benefits after you get the offer.
+
+**Question variations:**
+
+- This is one question that everyone will ask :)
+
+# Conflict Resolution
+
+All jobs require you to interact with coworkers, and there are bound to be conflicts. Your effectiveness in handling the conflicts has a significant impact on the outcome of your work.
+
+![](https://s3-us-west-1.amazonaws.com/s3-lc-upload/explore/cards/leap-ai/conflict_resolution.png)
+
+Thus, the interviewers spend a considerable amount of time to figure out your attitude towards conflicts and your ability to resolve them. The interviewers are often looking for your ability to
+
+- Spend time to understand other people’s point of view,
+- Negotiate to resolve the conflict in an amicable way and
+- Looking for conflict resolution strategies such as Accommodating, Avoiding, Collaborating, Compromising, Competing
+
+## Conflict Resolution with a Colleague
+
+**What is the interviewer looking for:** The interviewer is looking for the conflict resolution skills and your resilience. The following are a few areas that the interviewer is going to assess you.
+
+- Did you listen well?
+- Did you try to fully understand the other party’s story?
+- Did you work with other parties to come up with a creative solution to resolve the conflict, etc?
+- Did you try to resolve the conflict before escalation?
+
+**Best practice to answer:** Use the STAR framework. Describe the situation and the task. The actions you took to resolve the situation and the result. Ideally, showcase some good moves that you undertook to resolve the conflict. Some sample moves are:
+
+- Proactively reach out to the other party to fully understand their perspective.
+- Assume good intent. Do not be judgmental about the other party’s move. Most conflicts in a workplace is caused by misinterpreting the other party’s intent.
+- Steer both parties to find solutions that are optimized for the company and the combined team.
+- If needed, escalate to the right authorities in a timely manner.
+- After the conflict was resolved, reach out to further strengthen the relationship with the other party.
+
+**Common pitfalls:**
+
+- A story wherein the conflict was resolved by a third party and your actions were not responsible for resolving it.
+- Showing aggression or restlessness.
+- Rise of a new conflict.
+
+**Question variations:**
+
+- How did you resolve conflicts in your team?
+- Tell me about a time when you had an issue with a coworker
+- How do you handle disagreement with your teammates?
+- Tell me about a situation when you had to work in a group that wasn’t functioning well. What happened?
+
+## Disagree with Leadership
+
+**What is the interviewer looking for:** The interviewer is looking for your involvement in the decision-making and post-decision process. In particular, how well did you function as a leader to make your voice heard before the decision? And how well did you demonstrate followership to support a decision that you disagree?
+
+![](https://s3-us-west-1.amazonaws.com/s3-lc-upload/explore/cards/leap-ai/team.gif)
+
+**Best practice to answer:** It is a good practice to share your philosophy about decisions. A good practice is to be actively involved in the decision discussion so that your voice is heard and assist the decision maker to make the right decision with all the relevant data and different perspectives available before the decision making. Once a decision is made, follow and support the decision even if you do not agree. To illustrate active participation during decision process, you should share your perspective and why you prefer this route, how does it compare with the ultimate decision. You should also share how the final decision played out. If it played out well, please share what you have learned from this. If it did not work out, did the team come back to retry with your approach? If it did, what could you have done differently to better influence the team before the decision was made?
+
+**Common pitfalls:**
+
+- Vague answer with very little focus on how you stood up the ground to make sure your point of view is well heard.
+- Do not support the decision, still feel bitter about it.
+- Belittling a coworker or your team.
+
+**Question variations:**
+
+- What do you do if you disagree with your manager?
+- Share one experience that you argued forcefully but turned out you were wrong.
+
+## Experience of Compromising
+
+**What is the interviewer looking for:** We have all experienced situations where people share different opinions and are stuck in stalemate since nobody can convince anyone. In such situations, it is often the case that proceeding with any option is better than being stuck. Strong leaders seek to make compromises in such cases so that the team can proceed. It is a critical skill to make the right compromises in any type of organizations. When asking this question, the interviewers are trying to assess your flexibility and your creativity to make the right compromises to resolve conflicts.
+
+![](https://s3-us-west-1.amazonaws.com/s3-lc-upload/explore/cards/leap-ai/shake-hands.png)
+
+**Best practice to answer:** Without saying, you need to use the STAR method to describe the situation, what you did and the result. Simply making a compromise is never a strong leadership. You need to showcase why making a compromise was the right thing to do in this circumstance, what you did to break the stalemate and how you subsequently resolved the conflict. Make sure you lay the foundation, why different people have different views and how everyone believes theirs is correct. Explain what you did to make sure everyone understood the situation, the compromises that the team had to make and articulate the actions that made a difference.
+
+**Common pitfalls:**
+
+- You did not go through a thorough analysis or compromised and ended up in a situation that is not necessarily right for the organization.
+- You made compromises because you had to, such as pressure from your manager. This is the chance to show your action has made a difference and was not to please someone.
+
+**Question variations:**
+
+- Share one experience where you stepped back and found a better solution.
+- Share an experience that solved a problem by collaborating with others.
+
+# Prioritization and Time Management
+
+Many items are due tomorrow and they are all important. Sounds familiar? Yes, we all often face this situation, if not daily. Your ability to make hard decisions on priorities is not only critical to keeping your schedule and life sane but also essential for business success.
+
+![](https://s3-us-west-1.amazonaws.com/s3-lc-upload/explore/cards/leap-ai/time_management.jpg)
+
+The reality is that there are no infinite resources to tackle all the problems. Ability to prioritize is critical for us as individuals and for the organization that each of us is in. For questions related to prioritization, the interviewers are trying to assess your ability to:
+
+- Stay focused to meet deadlines,
+- Manage workload effectively by prioritization,
+- Adapt to change and stay on course,
+- Control stress when dealing with multiple tasks.
+
+## Prioritize Many Important Items
+
+**What is the interviewer looking for:** Conflicting priorities happen on a regular basis to many of us. The interviewers want to hear how you assess the situation and pick up the right tools. Below are some popular ways one can use:
+
+- Deprioritize some items,
+- Reduce scope to focus on what you have to get done by the deadline,
+- Negotiate the deadline,
+- Ask for help, and
+- Organize time effectively.
+
+![](https://s3-us-west-1.amazonaws.com/s3-lc-upload/explore/cards/leap-ai/p-list.png)
+
+**Best practice to answer:** Use the STAR framework to choose a situation you were in, the task that had to be done, the challenges you faced, the actions you took and the resulting outcome. Demonstrate how you analyzed the situation, why you decided to take certain actions, why did you de-prioritize some items, how did you get buy-in to reduce scope or change deadline, whom did you go to seek help, your manager or someone else. You want to give an overall picture to illustrate that you are comfortable in using different tools as needed.
+
+**Common pitfalls:**
+
+- Demonstrating that you were in the situation because of procrastination
+- Relying solely on escalation: Escalation is useful and sometimes necessary, but if it is the only way to solve problems, it is likely, something is missing.
+
+**Question variations:**
+
+- You feel the timeline given by management is unrealistic. How do you handle it?
+- How do you manage your time to achieve high efficiency?
+
+## Overcome a Project Delay
+
+**What is the interviewer looking for:** Most projects in the industry are delayed. Thus, this is a true real-life challenge that each one of us will face. Here are a few things that the interviewers might be looking for, in your answer:
+
+- How much real project experience do you have?
+- How effectively have you managed the delay?
+- How did you handle the stress?
+
+![](https://s3-us-west-1.amazonaws.com/s3-lc-upload/explore/cards/leap-ai/delay.jpeg)
+
+**Best practice to answer:** Pick up a real life experience. It is perfectly fine to acknowledge that you were part of the reason for the initial delay. It often happens that we uncover new challenges as the project proceeds. What is important is that you are able to discover the delay in a timely manner, maintain cool and calm, analyze the situation, get extra hands, reduce scope, better-streamline dependencies, or motivate your entire team to work extra hours, to turn the project around.
+
+**Common pitfalls:**
+
+- Claim you are always on time, never experienced a project delay. Seriously? All interviewers know it is not true. Even if you are truthful, it probably shows you do not have much real life project experience.
+- Blame the delay on your teammates. It might be the case, but it is never a good practice to blame on your teammates. It is very convenient for you to use them as a good excuse. It is also very convenient for the interviewers to vote you down.
+
+**Question variations:**
+
+- How do you make sure your projects are on time?
+- How do you recognize that your projects are not on the right trajectory?
+
+## What is Your Daily Routine?
+
+**What is the interviewer looking for:** The interviewer is trying to assess the kind of work environment you are familiar with. Is it fast pace or slow pace? If it is a fast pace, how do you manage your priorities and time? From your answer, the interviewer can probably get a good sense on how aggressive you are with your work schedule.
+
+**Best practice to answer:** Do not simply enumerate the laundry list that you do everyday. That is not what the interviewer is asking for. Instead, focus on how much time you spend on technical work, how much on meetings. Do not forget the time you spend to think and find creative new ways to solve problems. This is also a good opportunity to demonstrate how you keep up with what’s new in the industry and commit to learn new things. For example, attending meetups, reading blogs, etc.
+
+![](https://s3-us-west-1.amazonaws.com/s3-lc-upload/explore/cards/leap-ai/routine.png)
+
+In terms of priorities, you may want to cover short-term priorities and medium-term priorities. What tools do you use to keep your day organized? Purely on calendar? Or something else. For medium-term, do you use something like OKRs to keep your priorities structured? Anyway, explain clearly the tools you are using.
+
+When balancing different priorities, please note timeline is not the only factor that drives priority. In the technology world, quality is definitely another key dimension to consider and cover. To launch the right product, in some companies, it is perfectly fine to delay. Make it clear that you manage priorities considering all factors, not just the deadline.
+
+**Common pitfalls:**
+
+- Get into too much detail about your daily routine detail. Focus on key things, such as how much time do you spend on writing code each day, how much time in meetings.
+
+- Be too rigid about your priority. The reality is that in most cases, you prioritize based on what is needed by your work and your family.
+
+- Do not cover the time you spend to catch up with the industry and learn new things. It is important for you to show you are a lifetime learner.
+
+**Question variations:**
+
+- How do you find time to keep yourself updated with what is going on?
+- How do you prioritize between timeline, quality, and work life balance?
+
+# Teamwork
+
+![](https://s3-us-west-1.amazonaws.com/s3-lc-upload/explore/cards/leap-ai/teamwork.jpg)
+
+The ability to work well with others is a critical skill for virtually any job. The interviewers definitely want to know your working style and assess whether they want you as a teammate. In this question, they will pay special attention to:
+
+- How do you work with others?
+- How do you view your teammates?
+- How dependable are you?
+
+## Working with Difficult People
+
+**Questions:** Tell me about a time you needed to get information from someone who wasn’t very responsive. What did you do?
+
+**What is the interviewer looking for:** We all run into situations where someone doesn’t respond to our emails. There are many possible reasons:
+
+- This person is hard to work with,
+- This person does not know you or your project,
+- This person is very swamped, and your ask is not even close to the top of their priority list,
+- You have done something that offended them, but you are not even aware, or
+- Their manager and your manager are not aligned. The person wants to help but got a different direction from their manager.
+
+![](https://s3-us-west-1.amazonaws.com/s3-lc-upload/explore/cards/leap-ai/teamwork.jpg)
+
+The interviewers are looking for:
+
+- Your action to uncover the reasons behind this person’s lack of response,
+- Your concrete steps to win over their support and response, and
+- Your ability to seek collaboration when the other party does not seem like collaborative.
+
+**Best practice to answer:** You should follow the STAR method to explain the situation, in particular, what actions have you taken to uncover the reasons behind this person’s lack of response and take appropriate follow-up steps. For example,
+
+- If your project is not high on the person's priority, you should find ways to get priorities aligned. You may be able to do this by stopping by their desk or leveraging your manager or their manager’s help.
+- If they are swamped with high priority deliverables, can you ask another person to help? Alternatively, can you recommend someone else to help you?
+- If the managers are not aligned, should you try to talk to the manager directly or push your manager to work with the other manager to get aligned?
+
+Overall, you need to be empathetic to understand why the person is not very responsive. Do not draw a conclusion that the other person is hard to work with without looking more into their challenges. Once you have a better understanding of the situation, you can come up with the right ways to get help on your project by being assertive without being aggressive.
+
+**Common pitfalls:**
+
+- Quickly jumping to a conclusion that the person is hard to work with.
+- Relying too much on escalation.
+- Showing aggression in your communication.
+
+**Question variations:**
+
+- How do you deal with difficult people on your team?
+- How to handle it if another team’s priority is not aligned with yours?
+
+## Tailor your Style to Drive Success
+
+**Question:** Tell me about a time you had to adjust to a colleague's style in order to complete a project.
+
+**What is the interviewer looking for:** Everybody is different. A method may work for some, but may not work for others at all. The most successful individuals know how to tailor their style based on the other person’s/team’s style and preference. The interviewer is looking for flexibility to form healthy work relationship and get the job done.
+
+**Best practice to answer:** Use STAR framework, go deep on your effort to understand this person’s style, seek advice from others on how to best work with this person, and tailor your message to an approach that is more acceptable to her. Please explain how you were able to figure out ways to partner with her or motivate her to get the project down.
+
+**Common pitfalls:**
+
+- Sound overly critical about your colleague
+- Do not spend enough time to know the colleague
+
+**Question variations:**
+
+- How do you adapt yourself in adverse team environments?
+- How flexible can you be?
+
+## Experience of influencing others
+
+**Question:** Tell me about a time when you had to convince another staff member or leader, whom you had no direct authority over, to buy into a new idea or project? How did you accomplish this?
+
+**What is the interviewer looking for:** Ability to influence without authority is a key skill at work. No matter whether you are a junior or a senior member, there are times you need to get others to support your plan. The other party could be in your team, in the cross-functional team on the same project, in another project team, or even outside your company. To effectively influence others, one has to communicate well and build trust with others. From your answer, the interviewers can easily tell whether you had experience influencing others. They will be assessing your answer with the following questions in mind:
+
+- How difficult was the situation,
+- How do you identify the right stakeholders to influence,
+- How sophisticated were your tactics,
+- How effective was your approach,
+- How well you listened to others’ concern, and
+- How creative you are to address others’ concern
+
+![](https://s3-us-west-1.amazonaws.com/s3-lc-upload/explore/cards/leap-ai/influencer.png)
+
+**Best practice to answer:** First of all, before the persuasion, demonstrate that you have a comprehensive picture of the topic you are trying to influence. Otherwise, you will lose your credibility with the stakeholders. This requires you to identify the right stakeholders and reach out to them, listen to them, capture relevant context, especially key stakeholders’ point of view. Secondly, identify the options and the tradeoff between different options, be open to discuss the options and choose the one that works the best for the organization.
+
+In the interview, explain clearly what you have done to identify the options, adjust your proposal based on input from the stakeholders, and drive everyone to agreement and commitment after the decision. Clearly demonstrate it is your stewardship that led to the success of the project.
+
+**Common pitfalls:**
+
+- Trivial examples. Your example is too trivial, then the interviewer will think you do not have more complicated experience of influencing others.
+- Lack of detail on why it was challenging and the actions you have taken to win over others’ support
+
+**Question variations:**
+
+- Describe a situation that you successfully convinced someone to support your idea
+- Describe a case you have convinced your manager to change her view on something.
+- Describe a case that you successfully assembled a team to support your initiative.
+
+# Ability to Learn and Adapt
+
+In the technology era, the world is moving at an ever faster pace, one needs to adapt to new development and learn new things everyday to keep up with the technology and industry development.
+
+![](https://s3-us-west-1.amazonaws.com/s3-lc-upload/explore/cards/leap-ai/learnAndAdapt.jpg)
+
+Your ability to learn fast is often more important than what you know. Interviewers will try to get a read on the following:
+
+- Your willingness to accept ever-changing environments and working styles,
+- Your willingness to learn and
+- Your ability to learn
+
+## Do Something Completely Unexpected
+
+**What is the interviewer looking for:** The interviewer is evaluating
+
+- Your response to the unexpected
+- Your learning from the unexpected to become stronger
+
+![](https://s3-us-west-1.amazonaws.com/s3-lc-upload/explore/cards/leap-ai/unexpected.png)
+
+**Best practice to answer:** Use the STAR framework and describe the Situation and the Task. The action you took to resolve it and it’s outcome. Focus on how you responded the unexpected with positive energy, list the research you have done to understand the challenge and the approaches you have identified to solve the problem, the challenges you have faced along the way and the final outcome. Do not forget to mention what you have learned in the journey and how the experience positively impacted your career.
+
+**Common pitfalls:**
+
+- Lack of specifics. It is critical to have enough detail to make people believe in your story. Without enough detail, the interviewers may conclude that you have made it up.
+
+- The unexpected thing in your story should have been expected with people at your experience level. If this is the case, in the interviewer’s mind, she will start to form negative view about you.
+
+**Question variations:**
+
+- How do you deal with unexpected tasks and situations at work?
+
+- Give me an example of when you went into firefighting mode.
+
+- What happens when you need to change what you are doing at your work?
+
+- Tell me about a time when you had to assess and work through an unexpected situation in order to get your work done.
+
+## What Have You Learned Recently?
+
+**Detail Question:** What is the last thing you learned about xxx from a book, magazine or website?
+
+**What is the interviewer looking for:** The interviewer is assessing your zest to remain updated in the ever-changing world.
+
+**Best practice to answer:** Have the list of your favorite books and your key takeaway from these books, your websites, apps, blogs or podcast and why you like them. Sure, you should answer what you have learned, but more importantly, go the extra mile to comment on related books or podcasts to show that you are active at learning and getting informed.
+
+**Common pitfalls:**
+
+- Unable to articulate one thing that you have learned recently. It is always a good practice to pay extra attention to the news while you are heading to interviews since some news topic may come up in the interview.
+
+- Unable to even name a few books, blogs, or podcasts. This only shows you are closed and probably not well informed by the new development in the industry.
+
+- Mentioning something that is very mundane or you are expected to know.
+
+**Question variations:**
+
+- How do you stay current with your knowledge?
+- What is the most innovative thing you’ve read this year?
+- Who is your favorite author? What is your favorite book?
+- Give an example where you learned something really quick.
+
+## Failure Experience
+
+*What is the interviewer looking for:** The interviewer is evaluating
+
+- Your journey of handling obstacles
+- Critical thinking ability to analyze when you failed
+- Your ability to learn from failure or setbacks
+
+**Best practice to answer:** Choose a failure where you can tell a story. It needs to be very specific. Define what the failure meant to you. Describe the situation, and explain why it was a challenge. Then mention the actions you took and the outcome. Finally, sum it up with the learnings from the failure that make you a stronger individual.
+
+![](https://s3-us-west-1.amazonaws.com/s3-lc-upload/explore/cards/leap-ai/fail.jpg)
+
+**Common pitfalls:**
+
+- **Answer that you haven’t failed or chosen an insignificant failure:** Come on, let us face it. We are all human beings. Each of us must have experienced some failure, catastrophic or not. A failure that had a significant impact on you due to your actions is a good example. An insignificant example will only lead the interviewer to think you are not genuine or do not have considerable life experience.
+
+- **Lack of specifics.** The interviewers may conclude that you have made it up. Please see the the STAR framework.
+
+- **Too much detail:** Try not setting up the ground for too long and come to the gist. Too much detail will give the impression that you are not concise.
+
+- **Missed what you have learned:** You get overly excited or emotional about your experience and forget to sum up what you have learned and how this experience helped your personal development.
+
+**Question variations:**
+
+- How do you learn from failures?
+- How do you handle failures?
+
+# Leadership
+
+Companies work hard to hire people with high potential. Leadership ability is a key indicator of one’s potential. Thus, the interviewers are very keen to capture evidence about your leadership potential or lack thereof.
+
+![](https://s3-us-west-1.amazonaws.com/s3-lc-upload/explore/cards/leap-ai/leadership.png)
+
+There are many dimensions of leadership. Also, the answer will be drastically different for a fresh grad and senior managers or executives.
+
+## Proud Leadership Experience
+
+**Questions:** Tell me about a leadership experience that you are most proud of.
+
+**What is the interviewer looking for:** Obviously, the expectation of leadership varies drastically based on your experience level. For a junior member, the interviewers will likely look for :
+
+- Demonstrate and drive accountability,
+- Take initiatives, and
+- Foster collaboration among team members.
+
+For a more senior candidate, the interviewers will likely look for:
+
+- Establish vision,
+- Get buy-in across the organization,
+- Orchestrate the execution of a large-scale initiative, and
+- Drive changes
+
+**Best practice to answer:** It is impossible for you to cover every dimension of leadership. Please select a story that can primarily highlight one aspect of leadership that you want the interviewer to take away. Your primary goal is for the interviewer to remember the initiatives you had undertaken, the magnitude of the accomplishment, and the most significant leadership dimension you had demonstrated. To make sure your message genuinely stands out, you can provide a brief at the end of the story.
+
+You may want to tell different stories depending who is asking the question since a hiring manager or a teammate may appreciate different things. It is perfectly fine for you to use the same story, but may want to emphasize different elements based on what you know about the interviewer.
+
+Please make sure to be specific about the details of the project and what you did for it to be successful. There are many factors that contribute to the success of an initiative. You want to make the interviewer believe your leadership has played a critical role in the success.
+
+**Common pitfalls:**
+
+- **Loopholes** in your story. If things do not add up together, you will lose credibility and there is no way for you to get a high evaluation from the interviewer.
+- **Lack of specific detail.** Some stories may have happened many years ago and you no longer remember all the details. Please make sure look it up to get critical details including the numbers.
+- **Try to cover everything.** If you try to cover everything, the interviewer can easily read your intention and question the truthfulness.
+
+**Question variations:**
+
+- Tell me a successful project that you were part of
+- Tell me an experience that you have driven a change successfully
+
+## Your Leadership Style?
+
+![](https://s3-us-west-1.amazonaws.com/s3-lc-upload/explore/cards/leap-ai/lead-style.png)
+
+**What is the interviewer looking for:** We all want to work with strong individuals, and most of us do not want to work with jerks no matter how strong this individual is. When an interviewer asks for this question, she is trying to understand:
+
+- What is your leadership style?
+- Will you be a good fit for the company?
+- Are you easy to work with?
+- Does she want you to be her teammate?
+
+**Best practice to answer:** Be genuine. Share the true leadership traits that you have heard others describe you. Do not try to be someone you are not. Use some light-weight examples to support your statement, but do not go into too much detail. The interviewer is asking for others perception about you. Too many details imply, you are trying too hard. For example, if you say you bring positive energy and fun to the team, you can give examples on how many team events you organize, either ad-hoc or planned, but no need to go into specific detail for the events since they are not important for the question. Again, 3 is the magic number. Please pick up three things to describe your own leadership style. At the end, do a brief summary so that the interviewer has the best chance to capture and appreciate it.
+
+**Common pitfalls:**
+
+- Too verbose, unnecessarily get into too much detail
+- Answering the question without examples. Do not be fooled by this question. It does not ask for examples specifically, but it does not mean the interviewer does not expect it from you.
+- Pick up controversial leadership dimension. Please note the interviewer is also assessing whether she wants to be your teammate.
+
+**Question variations:**
+
+- What’s your leadership style?
+- Which leadership trait do you wish to have but you do not possess today?
+
+## Have you mentored someone?
+
+**What is the interviewer looking for:** Life is full of give and take. When you mentor others, you are not only helping others, but also learn from them and improve yourself. How much you are willing to give has big impact on how far you can go with your career. For this question, the interviewer is looking for:
+
+- Your willingness to help people
+- How effective you are as a mentor or advisor
+
+![](https://s3-us-west-1.amazonaws.com/s3-lc-upload/explore/cards/leap-ai/mentor.png)
+
+**Best practice to answer:** After you give a positive answer to the question, pick up one or two stories on what you did. Please make sure to cover enough detail. Are these people in your company or outside? Did you help them on the technical dimension or other aspects? What are the top advices you think worked really well for your mentees? What have you learned in this process? These are all great points to make.
+
+**Common pitfalls:**
+
+**Simply answer “No”:** In reality, you must have helped somebody, even if in your college. It does not have to be an official mentor-mentee relationship. Pick someone that you have provided meaningful help and improved her chance of success.
+
+**Lack of specifics.** The interviewers may conclude that you have not really done it if you do not include specific examples.
+
+**Too much detail:** The interviewer just wants to make sure. Too much detail will give him/her impression that you are not concise.
+
+**Question variations:**
+
+- What is your view on mentorship?
+- How do you help your teammates when needed?
+
+# Management
+
+These questions are mostly reserved for manager positions to assess the manager’s experience and managerial competencies. Managerial skills are best exemplified by a few common challenges that every experienced managers have faced. From your answers, the interviewers can determine:
+
+- Your management philosophy and principles,
+- Experience with common managerial challenges,
+- Ability to drive the team to deliver strong results, and
+- Political savviness
+
+## Experience of Firing Someone
+
+**What is the interviewer looking for:** Firing is one of the most challenging tasks that a manager faces. If done improperly, it could trigger various complications. From one’s behavior in a performance management or firing experience, one can tell how strong you are as a manager. In this question, the interviewer is looking for evidence to assess:
+
+- Your philosophy for performance management,
+- Hands-on experience with performance management,
+- Empathy with the involved employees, and
+- Partnership with HR to make and execute tough but necessary decisions
+
+![](https://s3-us-west-1.amazonaws.com/s3-lc-upload/explore/cards/leap-ai/fire-someone.png)
+
+**Best practice to answer:** First of all, give a direct answer on your experience with firing and performance management. Then pick up one or two examples to go into detail. A typical performance management case involves the following steps:
+
+- The manager observed performance challenges, provide actionable feedback to help the individual to grow.
+- The manager and the individual dive deep to analyze the performance, assess whether the individual is set for success. If not, apply some adjustments if available.
+- When situation does not improve, the manager usually first encourages the employee to reflect if this is the right environment for his/her success. After that, the manager can trigger PEP and/or PIP process for larger companies. For smaller companies, this step is often skipped.
+- If the performance still does not improve after all the effort, it is time for the manager to make the hard decision, work with HR to execute the decision.
+
+Since firing and performance management are very sensitive topics, it often requires close partnership with HR. Please make sure to mention about your collaboration with HR on this.
+
+**Common pitfalls:**
+
+- Simply say the employee did not perform and move forward to fire. No indication that you have tried to hear the employee out and create opportunity for her to improve and succeed.
+- Do not take partnership from HR
+- Expect HR to do the job for you. Some managers delegate this to HR. The reality is that managers should own performance management no matter how hard it is. HR will only be there to support.
+
+**Question variations:**
+
+- Have you put anyone on PIP? How did it play out?
+- Which one is harder? Hire or fire? Why?
+
+## Response to Escalations
+
+**Question:** Two of your tech leads escalated to you that the other party is not collaborative. What would you do?
+
+**What is the interviewer looking for:** As managers, part of your job is to handle escalations, step in when necessary, challenge the individuals to figure out solutions in other cases. In this question, the interviewer is looking for:
+
+- Your management style towards escalations, and
+- Your ability to help the team to resolve conflicts
+
+**Best practice to answer:** If you are an experienced manager, you must have encountered this situation. While a general rule of thumb is to bring everyone together and talk it openly, it is also true that it is case by case and you have to use different tactics depending on the situation. A strong response will lay out some fundamental principles on how you typically handle escalations and conflicts within your team, and explain how you will handle differently for a few common scenarios.
+
+A powerful example is how your intervention resulted into a stronger chemistry between the two individuals and how they became better leaders.
+
+**Common pitfalls:**
+
+- Act as a messenger between the two parties. If you are entangled in the verbal exchanges it is almost certain you will have a hard time resolving the conflict. The likely outcome is that everyone will be disappointed.
+
+- Simply force the two members to solve the issue by themselves, without stepping in as needed.
+
+- Downplay the challenging nature and only suggest superficial solutions such as open communication.
+
+**Question variations:**
+
+- How do you resolve conflicts within your team?
+- How do you handle escalations?
+- Tell me a time that you had to give tough feedback to someone.
+
+## Empowering and Driving Accountability
+
+**Question:** How do you balance empowering your reports and demanding strong results?
+
+**What is the interviewer looking for:** While micromanaging is the most commonly referenced example of poor management, over-delegating under the name of empowering is another common mistake made by managers, especially junior ones. Delegating without expecting strong results will often lead to weak performance. Strong leaders empower their reports, but also demand strong results and have framework to drive strong results. In this question, the interviewer is looking for
+
+- Your natural preference towards results
+- Your management philosophy about empowering
+- Management practice to drive strong results
+
+**Best practice to answer:** First, share your management philosophy. How do you empower people? Refer to data or quote from your employees. Emphasize on how you push the team to deliver strong results. Again, refer to some data, especially quote from your manager or peers on your team’s performance will be very helpful.
+
+**Common pitfalls:**
+
+- Show signs of micromanagement
+- Show signs of not pushing for strong performance
+- Unable to reference some facts or quotes to support your assertion
+
+**Question variations:**
+
+- How do you manage your team/reportees?
+- How would your reports describe you as a manager?
+- Do you micromanage?
+- How do you make sure your team delivers strong results?
+
+# Leap.ai
+
+## See your job matches in seconds
+
+AI makes it 10x easier and faster to land a job at **unicorn** and **baby unicorn** companies
+
+[Try it on Leap.ai](https://leap.ai/welcome?utm_source=leetcode&utm_medium=direct&utm_campaign=interview_intro)
+
+## Apply to 100,000+ Tech Jobs
+
+- From engineering to sales and more
+- From tech giants to unicorns to startups
+- A search and browse experience built for Tech
+
+![](https://s3-us-west-1.amazonaws.com/s3-lc-upload/explore/cards/leap-ai/marketing/img-745f99.png)
+
+[Explore Now](https://leap.ai/search?utm_source=leetcode&utm_medium=direct&utm_campaign=interview_intro)
+
+## Get Smart, start with your resume
+
+- A sleek template + context-specific tips
+- Our AI instantly tells you where to improve
+- Invite others to review. As simple as Google docs
+
+![](https://s3-us-west-1.amazonaws.com/s3-lc-upload/explore/cards/leap-ai/marketing/img-d03c64.png)
+
+[Try it on Leap](https://leap.ai/welcome?utm_source=leetcode&utm_medium=direct&utm_campaign=interview_intro)
+
+## Get the inside scoop on exclusive jobs
+
+- Find jobs directly posted by managers
+- Learn more about the team and role before applying
+- Interact directly with hiring managers
+
+![](https://s3-us-west-1.amazonaws.com/s3-lc-upload/explore/cards/leap-ai/marketing/img-66d800.png)
+
+[Explore #JobsByManagers](https://leap.ai/jobs/list?limit=20&offset=0&sources=Manager&utm_source=leetcode&utm_medium=direct&utm_campaign=interview_intro)
+
+## Ready to take your next Leap?
+
+[Leap Now](https://leap.ai/welcome?utm_source=leetcode&utm_medium=direct&utm_campaign=interview_intro)
