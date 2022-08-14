@@ -2,7 +2,7 @@
 
 ## Overview
 
-I just transformed this [LeetCode card](https://leetcode.com/explore/interview/card/leapai/) into an ebook to read on my Kindle. Enjoy.
+I transformed [Leap.ai: Rock the Behavioral Interview](https://leetcode.com/explore/interview/card/leapai/) into an eBook to read on my Kindle. Enjoy.
 
 ## Links
 - https://pandoc.org/epub.html
